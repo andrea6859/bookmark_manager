@@ -8,4 +8,5 @@ feature 'create links' do
     click_button('Add')
     expect(page).to have_content('BBC')
   end
+
 end
