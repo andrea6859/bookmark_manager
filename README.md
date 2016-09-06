@@ -24,3 +24,6 @@ I’d like to add tags to the links I save
 As a competitive user
 So that I can find the previously saved links easily
 I’d like to filter the links by their tags
+
+---
+END OF USER STORIES
